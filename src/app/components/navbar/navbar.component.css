@@ -1,0 +1,20 @@
+html{
+    background: #bcc0c4;
+  }
+  .bg-body-tertiary {
+      background-color: white!important;
+  }
+  #login-btn{
+    margin-inline: 18px;
+  
+    &:hover{
+      background: rgb(68, 0, 255);
+      border-radius: 8px;
+      padding-inline: 1px;
+      & a[role="button"]{
+          color: white;
+      }
+    }
+  }
+ 
+  
