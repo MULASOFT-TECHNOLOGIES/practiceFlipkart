@@ -1,0 +1,18 @@
+.carousel-inner{
+
+   
+    padding:50px;
+    bottom: 800px;
+/* padding-left: 50px; */
+    justify-content: start;
+    /* bottom: 50px; */
+    width:500%;
+    right: 160px;
+  
+ }
+ .carousel-item {
+    width: 200px;
+    margin-top: 150px;
+ 
+ }
+ 
